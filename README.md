@@ -5,7 +5,7 @@ This program uses SFML library for particle simulation.
 ### How to run on Linux
 
 #### Build Requirements:
-- gcc (to compile)
+- g++ (to compile)
 - git (to clone the repo)
 - libsfml-dev (library files)
 - make (for easy compilation and executing)
@@ -13,7 +13,7 @@ This program uses SFML library for particle simulation.
 *These packages can be installed from the default package manager.*
 
 Example for Debian based distributions:
-`sudo apt install gcc git libsfml-dev make`
+`sudo apt install g++ git libsfml-dev make`
 
 #### Run the following commands:
 1. `git clone https://github.com/haskellenjoyer/particle-simulation`
