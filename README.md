@@ -8,7 +8,7 @@ This program uses SFML library for particle simulation.
 - g++ (to compile)
 - git (to clone the repo)
 - libsfml-dev (library files)
-- make (for easy compilation and executing)
+- make (for easy compilation and execution)
 
 *These packages can be installed from the default package manager.*
 
